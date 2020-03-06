@@ -12,5 +12,5 @@ Get Kivy: https://kivy.org/doc/stable/installation/installation-linux.html
 **How does the App Work?**
 - This app allows you to chat by entering IP Address, Port and your username.
 - To start chatting you need to connect to a server.
-- You can download the chat App in you android phones by just trasferring the "ChatApp.apk" file present at ChatApp/bin to your phones and install it to use it.
+- You can download the chat App in you android phones by just trasferring the "ChatApp.apk" file to your phones and install it to use it.
 - To chat through the computer you will just have to run the python file using commands: python3 main.py.
