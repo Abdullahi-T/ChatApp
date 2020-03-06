@@ -1,4 +1,4 @@
-# ChatApp_Repo
+#ChatApp
 Simple Chat Application using Kivy Python
 
 **Setup**
